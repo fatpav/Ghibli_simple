@@ -92,6 +92,10 @@ header {
   align-items: center;
 }
 
+section {
+  text-align: center;
+}
+
 footer {
   grid-area: footer;
   align-items: center;
@@ -99,7 +103,8 @@ footer {
   bottom: 0;
   width: 100%;
   height: 2.5rem;
-  margin:auto; 
+  margin:auto;
+  padding: 20px; 
 }
 
 </style>
